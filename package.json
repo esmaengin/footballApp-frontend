@@ -29,6 +29,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-styled-components": "^2.1.4",
+    "prettier": "^3.5.1",
     "typescript": "^5"
   }
 }
